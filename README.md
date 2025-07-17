@@ -47,4 +47,4 @@ secureSpeed = 7.2f
 
 ## Watch Demo
 
-[![Watch on Imgur](https://i.imgur.com/IL0Pa2k.gif)](https://imgur.com/IL0Pa2k)
+👉 [Click here to watch the video in the repo](./showcase.mp4)
