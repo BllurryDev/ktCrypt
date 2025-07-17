@@ -48,3 +48,8 @@ secureSpeed = 7.2f
 ## Watch Demo
 
 https://github.com/user-attachments/assets/c3a05761-8b73-4e52-91e0-af882f5e6445
+
+
+## Important Note
+
+in order to get the full effect of **ktCrypt** i recommend to use a good dex Obfuscation such as [BlackObfuscator](https://github.com/CodingGay/BlackObfuscator) By CodingGay or any other good Obfuscation.
