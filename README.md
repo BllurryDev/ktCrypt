@@ -47,4 +47,4 @@ secureSpeed = 7.2f
 
 ## Watch Demo
 
-👉 [Click here to watch the video in the repo](./showcase.mp4)
+👉 [Click here to watch the video in the repo](./demo.mp4)
