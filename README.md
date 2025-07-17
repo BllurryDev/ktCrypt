@@ -43,6 +43,7 @@ println("Speed: $secureSpeed")     // prints 5.5
 // Update values securely
 secureHealth = 120
 secureSpeed = 7.2f
+```
 
 ## Watch Demo
 
